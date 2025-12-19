@@ -23,3 +23,5 @@ The project plan is documented in `plan.md` and outlines:
 ## Contact
 Jayadeep Raghav Vadlapati  
 Email: jxv5302@psu.edu
+Course: STAT 184
+
